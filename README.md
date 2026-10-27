@@ -1,160 +1,254 @@
+ 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aman+Singh+👋;AI+%2F+ML+Engineer+%7C+Computer+Vision+Specialist;Real-Time+Systems+%7C+Railway+AI+Monitoring;Building+Intelligent+Systems+That+Matter+⚡)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080B1A,35:25115C,70:007C91,100:00F7FF&text=Aman%20Singh&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Real-Time%20AI&descAlignY=59&descSize=17&animation=fadeIn" width="100%" />
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Building+AI+That+Works+in+the+Real+World;Computer+Vision+%7C+Deep+Learning+%7C+Edge+AI;Real-Time+Railway+Monitoring+Systems;Turning+Pixels+Into+Intelligence+%E2%9A%A1" alt="Animated introduction" />
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AmanRana07&color=00f7ff&style=flat-square&label=Profile+Views)](https://github.com/AmanRana07)
+<br/>
+
+<a href="https://github.com/AmanRana07">
+  <img src="https://komarev.com/ghpvc/?username=AmanRana07&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/AmanRana07?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+<a href="https://www.linkedin.com/in/aman-singh-b266b4194">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+**Engineering intelligent systems for real-world problems.**  
+*From computer vision research to real-time industrial AI.*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-```yaml
-Name        : Aman Singh
-Role        : AI/ML Engineer · Computer Vision Developer
-Location    : Delhi, India 🇮🇳
-Speciality  : Deep Learning · Real-Time Video Processing · Railway Systems
-Experience  : Production-grade AI systems at Atai India Pvt. Ltd
-Interests   : Computer Vision · Depth Sensing · Model Optimization · Research
-Currently   : Advancing railway infrastructure monitoring using AI
+```python
+class AmanSingh:
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.company = "Atai India"
+        self.location = "Delhi, India 🇮🇳"
+        self.education = "MSc Data Science"
+        self.focus = [
+            "Computer Vision",
+            "Deep Learning",
+            "Real-Time AI Systems",
+            "Railway Infrastructure Monitoring",
+            "GPU Optimization"
+        ]
+        self.stack = ["Python", "PyTorch", "YOLO", "OpenCV", "FastAPI"]
+        self.mission = "Build AI that solves real-world problems"
+
+    def say_hi(self):
+        return "Let's build something intelligent! 🚀"
+
+
+me = AmanSingh()
+print(me.say_hi())
 ```
+
+I'm an AI Engineer at **Atai India**, working on production-oriented computer vision systems, real-time video analytics, and AI-powered railway infrastructure monitoring.
+
+My work combines deep learning, camera integration, multi-model inference, GPU acceleration, and backend engineering to turn complex visual data into actionable insights.
+
+- 🚄 Working on AI-powered railway pantograph monitoring.
+- 👁️ Building computer vision pipelines for object detection, measurement, and anomaly detection.
+- ⚡ Exploring inference optimization and real-time performance.
+- 🎓 MSc Data Science graduate from Christ University.
+- 🌱 Continuously learning about advanced vision systems, depth sensing, and deployment.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 My AI Engineering Stack
 
-### AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8%2Fv11-FF6B6B?style=for-the-badge)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge)
+<div align="center">
 
-### Hardware & Systems
-![Intel RealSense](https://img.shields.io/badge/Intel_RealSense_D435%2FD455-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA_GPU_Acceleration-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+### Artificial Intelligence & Computer Vision
 
-### Web & Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="AI technologies" />
 
-### Databases & Tools
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-FF6B6B?style=for-the-badge" alt="YOLO" />
+<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-8B5CF6?style=for-the-badge" alt="Deep learning" />
+<img src="https://img.shields.io/badge/Computer%20Vision-Image%20Analytics-00C9A7?style=for-the-badge" alt="Computer vision" />
+
+### GPU, Deployment & Systems
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,github,vscode&theme=dark" alt="Development tools" />
+
+<img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/TensorRT-Inference%20Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT" />
+<img src="https://img.shields.io/badge/ONNX-Model%20Interoperability-005CED?style=for-the-badge" alt="ONNX" />
+<img src="https://img.shields.io/badge/Intel-RealSense%20Depth%20Sensing-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel RealSense" />
+
+### Backend, Databases & Interfaces
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,javascript,sqlite,postgres,mysql&theme=dark" alt="Backend and database technologies" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>⚡ Pantograph Analysis & Reporting System — Atai India Pvt. Ltd</b></summary>
+<details open>
+<summary><b>🚄 Railway Pantograph Analysis & Monitoring System</b></summary>
 
-> An end-to-end production AI system for real-time railway pantograph health monitoring deployed on Indian Railways infrastructure.
+<br/>
 
-- Detected **electrical arcs and sparks** using custom-trained YOLO models on live video feeds
-- Measured **pantograph stagger & height** using Intel RealSense D435/D455 depth cameras
-- Processed **dual-camera streams** simultaneously with GPU-accelerated inference (TensorRT/ONNX)
-- Integrated **GPS tracking** for precise, location-stamped anomaly logging
-- Generated automated **PDF & Excel reports** with annotated frames and analytics
-- Built a full **PyQt5 desktop dashboard** with live feed monitoring, alerts, and historical data
-- Packaged into a secure, standalone **PyInstaller executable** for field deployment
+<div align="center">
+<img src="https://img.shields.io/badge/Domain-Railway%20AI-00D9FF?style=flat-square" alt="Railway AI" />
+<img src="https://img.shields.io/badge/Focus-Real--Time%20Computer%20Vision-7C3AED?style=flat-square" alt="Real-time computer vision" />
+<img src="https://img.shields.io/badge/Environment-Industrial%20Monitoring-00C9A7?style=flat-square" alt="Industrial monitoring" />
+</div>
 
-</details>
+An AI-powered monitoring system designed to analyze pantographs and overhead equipment (OHE) using live camera feeds and computer vision.
 
-<details>
-<summary><b>🎓 Smart Examination Portal with AI Proctoring</b></summary>
+**Key capabilities**
+- YOLO-based detection of pantographs, overhead wires, and railway components.
+- Spark and electrical arc detection from video frames.
+- Pantograph height, contact-wire height, and stagger measurement.
+- Depth-camera integration using Intel RealSense.
+- GPU-accelerated inference across multiple AI models.
+- Real-time measurement smoothing and visual monitoring.
+- Session management, calibration, anomaly logging, and reporting.
 
-> An intelligent online examination platform with real-time AI-based surveillance to ensure exam integrity.
-
-- Real-time **face detection & object recognition** using YOLO + OpenCV
-- Django backend with role-based access control for students and administrators
-- Automated flagging and alert system for suspicious behavior
-
-</details>
-
-<details>
-<summary><b>🏏 No-Ball Detection using Deep Learning</b></summary>
-
-> A computer vision research project to automate no-ball decisions in cricket matches.
-
-- Deep learning model trained on cricket broadcast footage
-- Keypoint detection for precise foot-to-crease boundary analysis
-- Presented as a research project with documented methodology
+**Core technologies:** Python · YOLO · OpenCV · PyTorch · FastAPI · CUDA · Intel RealSense
 
 </details>
 
 <details>
-<summary><b>🌟 Celebrity Recognition Web App</b></summary>
+<summary><b>🏏 Cricket No-Ball Detection & Foot-Crease Estimation</b></summary>
 
-> A web application that identifies celebrities from uploaded images using Convolutional Neural Networks.
+<br/>
 
-- Custom-trained CNN classifier with multi-celebrity support
-- Flask-based web interface for seamless user interaction
+A computer vision research project focused on analyzing a bowler's front-foot position relative to the crease to support no-ball decision-making.
+
+- YOLO-based detection of the bowler, shoes, and crease.
+- Image classification using InceptionV3.
+- Keypoint and foot-position analysis.
+- Pixel-to-centimeter distance estimation.
+- Dataset annotation and model development using Roboflow.
+
+**Core technologies:** Python · YOLOv8 · InceptionV3 · OpenCV · Roboflow
 
 </details>
 
 <details>
-<summary><b>📈 Stock Price Prediction using GRU</b></summary>
+<summary><b>🎓 AI-Powered Examination & Proctoring Portal</b></summary>
 
-> A deep learning model to forecast stock market prices using sequential data.
+<br/>
 
-- Implemented **Gated Recurrent Unit (GRU)** architecture for time-series forecasting
-- Interactive visualization dashboard comparing predictions vs. actual values
+An examination platform concept combining web technologies with computer vision to support exam supervision.
+
+- Face and object detection using computer vision.
+- Django-based application architecture.
+- Student and administrator workflows.
+- Potential suspicious-activity alerts and review functionality.
+
+**Core technologies:** Python · Django · YOLO · OpenCV · SQL
+
+</details>
+
+<details>
+<summary><b>🌟 Celebrity Recognition Web Application</b></summary>
+
+<br/>
+
+A web application exploring image-based celebrity classification using a convolutional neural network.
+
+- Image upload and prediction workflow.
+- CNN-based image classification.
+- Flask backend and browser-based interface.
+
+**Core technologies:** Python · CNN · Flask · OpenCV
+
+</details>
+
+<details>
+<summary><b>📈 Stock Price Prediction Using GRU</b></summary>
+
+<br/>
+
+A time-series forecasting project using a Gated Recurrent Unit (GRU) neural network to explore sequential financial data.
+
+- Sequential data preprocessing.
+- GRU-based model development.
+- Predicted-versus-actual visualization.
+
+**Core technologies:** Python · Deep Learning · GRU · Data Visualization
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanRana07&show_icons=true&theme=tokyonight&count_private=true&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanRana07&layout=compact&theme=tokyonight&border_radius=10)
-![GitHub Streak](https://streak-stats.demolab.com?user=AmanRana07&theme=tokyonight&border_radius=10)
+<a href="https://github.com/AmanRana07">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmanRana07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F7FF&icon_color=9D7BFF&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/AmanRana07">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanRana07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F7FF&text_color=E6EDF3&langs_count=8" alt="Most used languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://streak-stats.demolab.com/?user=AmanRana07">
+  <img src="https://streak-stats.demolab.com?user=AmanRana07&theme=tokyonight&hide_border=true&background=0B1020&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" width="70%" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
-
-- TensorRT INT8 quantization & model compression
-- Stereo vision and advanced 3D depth reconstruction
-- Multi-camera synchronization for large-scale monitoring
-- Distributed AI systems for railway infrastructure
-- Research in real-time depth accuracy improvements
-
----
-
-## 📬 Let's Connect
+## 🔬 Currently Exploring
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+| ⚡ Focus Area | 🧪 What I'm Exploring |
+|:---|:---|
+| Computer Vision | Detection, segmentation & keypoint estimation |
+| Model Optimization | GPU acceleration & efficient inference |
+| Depth Sensing | Stereo vision & 3D measurement accuracy |
+| Real-Time Systems | Multi-model pipelines & frame processing |
+| Industrial AI | Reliable monitoring & actionable analytics |
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-*"Building AI systems that solve real-world problems — one model at a time."*
+Have an interesting idea involving AI, computer vision, or real-time intelligent systems? Let's connect.
 
-![Coding GIF](https://media.giphy.com/media/hpI6CCAdMiTzq/giphy.gif)
+<a href="https://www.linkedin.com/in/aman-singh-b266b4194">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:amansingh82043@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/AmanRana07">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-### 🌟 Thanks for visiting my profile! Feel free to explore and connect. 🌟
+<br/><br/>
+
+*“Great AI isn't just about making predictions. It's about making those predictions useful in the real world.”*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:25115C,100:080B1A&height=120&section=footer" width="100%" alt="Decorative footer" />
 
 </div>
